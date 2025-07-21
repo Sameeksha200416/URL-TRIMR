@@ -368,64 +368,15 @@ Have an idea? [Submit a feature request](https://github.com/Sameeksha200416/URL-
 
 ---
 
-## 📄 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Sameeksha
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
----
-
-## 👨‍💻 **About the Developer**
-
-<div align="center">
-  
-  **Sameeksha** - Full Stack Developer
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-Sameeksha200416-black?style=flat&logo=github)](https://github.com/Sameeksha200416)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sameeksha)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sameeksha@example.com)
-  
-</div>
-
-**Skills & Interests:**
-- 🚀 Full Stack Development (React, Node.js, Python)
-- 📱 Mobile App Development (React Native)
-- 🎨 UI/UX Design (Figma, Adobe XD)
-- 📊 Data Analytics & Visualization
-- 🔧 DevOps & Cloud Deployment
-
----
-
 ## 🙏 **Acknowledgments**
 
 Special thanks to:
+- **RoadsideCoder** - For providing me an amazing learning project
 - **Supabase** - For providing an amazing backend-as-a-service
 - **Vercel** - For seamless deployment and hosting
 - **Radix UI** - For accessible, unstyled UI primitives
 - **TailwindCSS** - For the utility-first CSS framework
 - **React Community** - For the incredible ecosystem
-
----
-
-## 📞 **Support**
-
-Need help? We're here for you!
-
-- 📧 **Email**: [support@urltrimr.com](mailto:support@urltrimr.com)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Sameeksha200416/URL-TRIMR/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/Sameeksha200416/URL-TRIMR/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/Sameeksha200416/URL-TRIMR/wiki)
 
 ---
 
