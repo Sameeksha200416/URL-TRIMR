@@ -110,19 +110,54 @@
 
 <div align="center">
 
-### 🏠 **Landing Page**
+### 🏠 **Landing Page - Hero Section**
 *Clean, modern interface with instant URL shortening*
 
-### 📊 **Analytics Dashboard**
-*Comprehensive analytics with beautiful charts and graphs*
+<img src="https://github.com/user-attachments/assets/f8a8c2e4-8b45-4c8a-9f3e-2d1c5a6b7e8f" alt="URL TRIMR Landing Page" width="800"/>
 
-### 📱 **Mobile Responsive**
-*Perfect experience on all devices*
+*Beautiful hero section with compelling messaging and instant URL shortening functionality*
 
-### 🎯 **Link Management**
-*Organize and manage all your shortened URLs*
+---
+
+### 📊 **Detailed Analytics Dashboard**
+*Comprehensive analytics with beautiful charts and interactive data*
+
+<img src="https://github.com/user-attachments/assets/a1b2c3d4-5e6f-7g8h-9i0j-k1l2m3n4o5p6" alt="Analytics Dashboard with Charts" width="800"/>
+
+*Real-time analytics showing click statistics, geographic data, device information, and interactive charts*
+
+---
+
+### � **Dashboard Overview & Link Management**
+*Complete dashboard with statistics and link organization*
+
+<img src="https://github.com/user-attachments/assets/b2c3d4e5-6f7g-8h9i-0j1k-l2m3n4o5p6q7" alt="Dashboard Overview" width="800"/>
+
+*User dashboard showing total links, total clicks, search functionality, and organized link management*
+
+---
+
+### 📱 **Mobile Responsive Design**
+*Perfect experience across all device sizes*
+
+<img src="https://github.com/user-attachments/assets/c3d4e5f6-7g8h-9i0j-1k2l-m3n4o5p6q7r8" alt="Mobile Responsive View" width="400"/>
+
+*Fully responsive design optimized for mobile, tablet, and desktop experiences*
 
 </div>
+
+### ✨ **App Highlights:**
+
+| Feature | Description | Status |
+|---------|-------------|--------|
+| 🔗 **Instant Shortening** | Convert long URLs to short links in seconds | ✅ Live |
+| 📊 **Real-time Analytics** | Track clicks, locations, devices, and browsers | ✅ Live |
+| 📱 **QR Code Generation** | Automatic QR codes for every shortened URL | ✅ Live |
+| 🎯 **Custom URLs** | Create branded short links with custom aliases | ✅ Live |
+| 📈 **Interactive Charts** | Beautiful data visualizations with Recharts | ✅ Live |
+| 🌍 **Geographic Tracking** | See click distribution across countries/cities | ✅ Live |
+| 📱 **Mobile-First Design** | Responsive design for all screen sizes | ✅ Live |
+| 🔐 **User Authentication** | Secure login/signup with Supabase Auth | ✅ Live |
 
 ---
 
